@@ -1,1 +1,1 @@
-# Challenge_Kotlin_Funfamental
+# Challenge_Kotlin_Fundamental
